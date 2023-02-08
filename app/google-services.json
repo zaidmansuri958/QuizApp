@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "612087294665",
+    "firebase_url": "https://quizapp-715ac-default-rtdb.firebaseio.com",
+    "project_id": "quizapp-715ac",
+    "storage_bucket": "quizapp-715ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612087294665:android:11e8bcb46c46bc7cab3b18",
+        "android_client_info": {
+          "package_name": "com.example.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612087294665-r61jfu6io2m7ticl6ifj0ptb4lih50e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADR-ywz4NVnxje8gnYbJjcyuZRqlXb-Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612087294665-r61jfu6io2m7ticl6ifj0ptb4lih50e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9829502421511765~8092819576"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612087294665:android:515423b29bbbef2cab3b18",
+        "android_client_info": {
+          "package_name": "com.zaidMansuri.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612087294665-r61jfu6io2m7ticl6ifj0ptb4lih50e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADR-ywz4NVnxje8gnYbJjcyuZRqlXb-Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612087294665-r61jfu6io2m7ticl6ifj0ptb4lih50e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

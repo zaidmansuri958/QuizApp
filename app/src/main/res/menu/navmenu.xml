@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/finance"
+        android:icon="@drawable/question_answer"
+        android:title="Finance" />
+    <item
+        android:id="@+id/science"
+        android:icon="@drawable/question_answer"
+        android:title="Science" />
+    <item
+        android:id="@+id/history"
+        android:icon="@drawable/question_answer"
+        android:title="History" />
+    <item
+        android:id="@+id/mathematics"
+        android:icon="@drawable/question_answer"
+        android:title="Mathematics" />
+    <item
+        android:id="@+id/sports"
+        android:icon="@drawable/question_answer"
+        android:title="Sports" />
+    <item
+        android:id="@+id/computer"
+        android:icon="@drawable/question_answer"
+        android:title="Computer" />
+
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/logout"
+        android:title="Log Out" />
+
+</menu>
