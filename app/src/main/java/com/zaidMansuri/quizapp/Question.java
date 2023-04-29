@@ -113,6 +113,9 @@ public class Question extends AppCompatActivity {
                             String old = snapshot.child("score").getValue().toString();
                             int newScore = parseInt(old) + (correct * 10);
                             snapshot.getRef().child("score").setValue(newScore);
+                            Intent intent = new Intent(Question.this, Reward.class);
+                            intent.putExtra("correct", correct);
+                            startActivity(intent);
                         }
 
                         @Override
@@ -121,9 +124,7 @@ public class Question extends AppCompatActivity {
                         }
                     });
 
-                    Intent intent = new Intent(Question.this, Reward.class);
-                    intent.putExtra("correct", correct);
-                    startActivity(intent);
+
                 }
             }
         });
